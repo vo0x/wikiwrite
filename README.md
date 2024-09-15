@@ -1,6 +1,6 @@
 # Telegram Bot
 
-This is a Telegram bot built using the Python Telegram Bot (PTB) library. The bot allows user registration, broadcasts messages to registered users, and sends notifications to the admin when a new user joins the bot.
+This is a Telegram bot built using the Python Telegram Bot (PTB) library. 
 
 ## Features
 - **search:** on wikipedia.
